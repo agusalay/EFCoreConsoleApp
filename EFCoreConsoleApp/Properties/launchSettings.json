@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EFCoreConsoleApp": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\agus umriadi\\source\\repos\\EFCoreConsoleApp\\EFCoreConsoleApp"
+    }
+  }
+}
